@@ -1,6 +1,6 @@
 
 
-# Gitlet Design Document
+# Gitlet
 
 **Name**: mishawu@berkeley.edu
 
